@@ -1,14 +1,14 @@
 <br clear="both">
 
-<h5 align="center">Hi 👋! My name is UDAY and I'm a DevOps Engineer from INDIA</h5>
+<h1 align="center">Hi 👋! My name is UDAY and I'm a DevOps Engineer from INDIA</h1>
 
 ###
 
-<p align="left"></p>
+<p align="center"></p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="<a href="https://ibb.co/wB4TPMc"><img src="https://i.ibb.co/34cwjBR/7092338.jpg" alt="7092338" border="0"></a>"  />
+  <img height="350" src="<a href="https://ibb.co/wB4TPMc"><img src="https://i.ibb.co/34cwjBR/7092338.jpg" alt="7092338" border="0"></a>"  
 </div>
 
 ###
