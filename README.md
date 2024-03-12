@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNibG51ZXVtcmFydmZrMXlkOXN2bGh0dTg0dWM0MWF3bDlwZGJpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif"  />
+  <img height="350" src="<a href="https://ibb.co/wB4TPMc"><img src="https://i.ibb.co/34cwjBR/7092338.jpg" alt="7092338" border="0"></a>"  />
 </div>
 
 ###
