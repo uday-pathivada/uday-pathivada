@@ -45,12 +45,12 @@
 ###
 
 <div align="center">
-  <img height="350" src="<a href="https://ibb.co/wB4TPMc"><img src="https://i.ibb.co/34cwjBR/7092338.jpg" alt="7092338" border="0"></a>"  
+  <img height="350" src="https://private-user-images.githubusercontent.com/142791225/312183766-6fff1fe3-4728-42af-b282-47294905d1ac.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAyNjY3MzgsIm5iZiI6MTcxMDI2NjQzOCwicGF0aCI6Ii8xNDI3OTEyMjUvMzEyMTgzNzY2LTZmZmYxZmUzLTQ3MjgtNDJhZi1iMjgyLTQ3Mjk0OTA1ZDFhYy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxMlQxODAwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00M2Q5YWZlOGZjZmUzMmQxM2JkNjZmMTMzYjc4MjA0N2U5ZTQ4NWE1MWYyYThiZDQ1ODExYmI5OWNhOGMxMmNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ynYNvBgKfEpmA4EM6-JDzImnCPS-lYHa50SwKb7B6Lg"  
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/_u_d_a_y_p/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="37" alt="instagram logo"  />
   </a>
